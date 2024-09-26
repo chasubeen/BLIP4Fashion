@@ -33,9 +33,10 @@
 |차수빈|목표 및 방향성 설정, 데이터 전처리, 모델링 baseline 설정, 실험 설계(목적 함수 개선), 모델링 - Trial 4|
 
 ## **4. 파일 구조**
+- [data - Google Drive](https://drive.google.com/drive/folders/1Jn6F0IrIfIhWk8XlFVC-B80lstcrb2Fk?usp=sharing)
+
 ```
 ├── BLIP4Fashion
-|   ├── [data - Google Drive](https://drive.google.com/drive/folders/1Jn6F0IrIfIhWk8XlFVC-B80lstcrb2Fk?usp=sharing)
 │   ├── 1. Preprocessing.ipynb (데이터 전처리 파일)
 │   ├── 2. Modeling
 │   |   ├── modeling_trial1.ipynb
