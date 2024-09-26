@@ -90,7 +90,7 @@
 
 ## **6. 프로젝트 관련 자료**
 - [프로젝트_Notion 페이지](https://euron6th.notion.site/fed2e1e55ca8401e8c715357b20dbe0c?pvs=4)
-- [발표자료](https://github.com/chasubeen/BLIP4Fashion/blob/main/Fashion%20Captioning%20with%20BLIP%20Finetuning.pdf)
+- [발표자료]()
 
 ---
 ## **회고**
