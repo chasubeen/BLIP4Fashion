@@ -12,7 +12,7 @@
 ## **2. 참여자**
 |**팀원 1**|**팀원 2**|**팀원 3**|**팀원 4**|**팀원 5**|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-|<img src="" width = 100 height = 100>|<img src = "https://github.com/user-attachments/assets/42ea8bd3-7942-4aed-9f08-8cc379ce9119" width = 100 height = 100>|<img src = "" width = 100 height = 100>|<img src = "https://github.com/user-attachments/assets/f278717e-b82f-4566-a350-9114e151f3b5" width = 100 height = 100>|<img src = "https://avatars.githubusercontent.com/u/98953721?v=4" width = 100 height = 100>|    
+|<img src="https://github.com/user-attachments/assets/15617f75-2ae9-4db4-8c3d-81a5fed73e3e" width = 100 height = 100>|<img src = "https://github.com/user-attachments/assets/42ea8bd3-7942-4aed-9f08-8cc379ce9119" width = 100 height = 100>|<img src = "https://github.com/user-attachments/assets/ad8b4b23-64ff-4c4c-8543-0b18ede197ed" width = 100 height = 100>|<img src = "https://github.com/user-attachments/assets/f278717e-b82f-4566-a350-9114e151f3b5" width = 100 height = 100>|<img src = "https://avatars.githubusercontent.com/u/98953721?v=4" width = 100 height = 100>|    
 |[방선유](https://github.com/syou-b)|[배주원](https://github.com/baejuwon-30)|[장윤서](https://github.com/jy00nse0)|[손소현](https://github.com/sonso1598)|[차수빈](https://github.com/chasubeen)|
 
 ## **3. 진행 과정**
@@ -36,7 +36,7 @@
 
 ```
 ├── BLIP4Fashion
-│   ├── 1. Preprocessing.ipynb (데이터 전처리 파일)
+│   ├── 1. Preprocessing.ipynb 
 │   ├── 2. Modeling
 │   |   ├── modeling_trial1.ipynb
 │   │   ├── modeling_trial2.ipynb
@@ -48,6 +48,7 @@
 │   │   ├── BLIP_inference_trial1.ipynb
 │   │   └── BLIP_inference_trial1.ipynb
 │   └── README.md
+└──
 ```
 
 ## **5. 프로젝트 흐름 및 사용 기술**
